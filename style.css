@@ -1,0 +1,71 @@
+.calc{
+    width: 400px;
+    height: 550px;
+    background: linear-gradient(to right,rgb(23, 250, 220),rgb(25, 138, 230));
+    margin-left: 36%;
+    border-radius: 10px;
+}
+#screen{
+    width: 85%;
+    height: 55px;
+    margin-left: 6%;
+    margin-top: 20px;
+    pointer-events: none;
+    border-radius: 10px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.btn{
+    width: 60px;
+    height: 60px;
+    margin-left: 29px;
+    margin-top: 23px;
+    border-radius: 10px;
+    border: solid 2px aqua;
+    background: transparent;
+    font-size: 20px;
+}
+.btn:hover{
+    background:rgb(147, 239, 220);
+}
+.equalbtn{
+    width: 60px;
+    height: 60px;
+    margin-left: 32px;
+    margin-top: 26px;
+    border-radius: 10px;
+    border: solid 2px aqua;
+    background: rgb(5, 177, 82);
+    font-size: 20px;
+}
+.equalbtn:hover{
+    background: rgb(7, 209, 240);
+}
+.clearbtn{
+    width: 60px;
+    height: 60px;
+    margin-left: 29px;
+    margin-top: 23px;
+    border-radius: 40px;
+    border-radius: 10px;
+    border: solid 2px aqua;
+    background: transparent;
+    font-size: 20px;
+}
+.clearbtn:hover{
+    background: rgb(147, 239, 220);
+}
+.bsbtn{
+    width: 60px;
+    height: 60px;
+    margin-left: 29px;
+    margin-top: 23px;
+    border-radius: 40px;
+    border-radius: 10px;
+    border: solid 2px aqua;
+    background: transparent;
+    font-size: 20px;
+}
+.bsbtn:hover{
+    background: rgb(147, 239, 220);
+}
